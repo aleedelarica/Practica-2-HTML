@@ -1,6 +1,6 @@
 # Practica-2-HTML
 
-##Guia de navegacion por la pagina web
+## Guia de navegacion por la pagina web
 Empezamos abriendo BBVA.html donde encontraremos la página inicial. En ella esta el logo BBVA y tres opciones donde clickear (LOGO, APP o FORM).
 
 La pagina de logo habla un poco sobre la adaptacion que ha hecho BBVA recientemente a su logo, y que ha demostrado y transmitido con ella.
